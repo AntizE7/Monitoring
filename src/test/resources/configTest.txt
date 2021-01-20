@@ -1,0 +1,11 @@
+{
+"clusterNameES":"elasticsearch",
+"hostES":"localhost",
+"portES":9300,
+"hostDMGSQL":"bdd",
+"machineNames" : [ "machine1" , "machine2" ],
+"IPs": [ "IP1", "IP2" ],
+"moxaPort":8080,
+"dmgPoolingPeriod":5,
+"moxaPoolingPeriod":1
+}
